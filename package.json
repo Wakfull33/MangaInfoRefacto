@@ -1,0 +1,21 @@
+{
+  "name": "untitled2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "caporal": "^1.1.0",
+    "cli-progress": "^2.1.1",
+    "commander": "^2.19.0",
+    "download": "^7.1.0",
+    "fs": "0.0.1-security",
+    "x-ray": "^2.3.3",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
